@@ -1,3 +1,8 @@
+## Name        : JESPIAH SHIHANA P S
+## Register no.: 212223040077
+## Department  : Computer Science Engineering
+## Date        : 15/04/2024
+
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
 ### Aim :
@@ -36,17 +41,7 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 
 ### Program : 
-DART studio screen shots for linear interpolation 
-
-
-
-
-
-
-
-
-
-DART studio screen shots for joint interpolation 
+![WhatsApp Image 2024-04-15 at 2 31 08 PM](https://github.com/Jespiahshihana/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144718286/5239bdfd-c739-47f7-8e8d-1dd84cc985eb)
 
 
 
@@ -57,17 +52,9 @@ DART studio screen shots for joint interpolation
 
 ### Robot movements 
 
-
-
-
-
-
-
-
-
-
-
-
+![WhatsApp Image 2024-04-15 at 2 31 09 PM (1)](https://github.com/Jespiahshihana/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144718286/9749712a-784b-4379-9d44-18214d50cf5d)
+![WhatsApp Image 2024-04-15 at 2 31 09 PM](https://github.com/Jespiahshihana/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144718286/3fdce28e-a282-4bf2-abe6-5dd55082f474)
 
 
 ### Results:  
+Thus,linear and joint interpolation of industrial manipulator is executed with a suitable program.
